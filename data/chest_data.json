@@ -1,0 +1,244 @@
+{
+  "players": [
+    {
+      "id": "player1",
+      "name": "John Smith",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 10500,
+      "chests": 42
+    },
+    {
+      "id": "player2",
+      "name": "Jane Doe",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 8200,
+      "chests": 37
+    },
+    {
+      "id": "player3",
+      "name": "Mike Johnson",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 15800,
+      "chests": 63
+    },
+    {
+      "id": "player4",
+      "name": "Sarah Williams",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 12400,
+      "chests": 51
+    },
+    {
+      "id": "player5",
+      "name": "David Brown",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 22500,
+      "chests": 89
+    },
+    {
+      "id": "player6",
+      "name": "Lisa Davis",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 18200,
+      "chests": 72
+    },
+    {
+      "id": "player7",
+      "name": "Robert Miller",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 9500,
+      "chests": 38
+    },
+    {
+      "id": "player8",
+      "name": "Amanda Wilson",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 31750,
+      "chests": 125
+    },
+    {
+      "id": "player9",
+      "name": "Thomas Moore",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 27300,
+      "chests": 110
+    },
+    {
+      "id": "player10",
+      "name": "Jessica Taylor",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 14250,
+      "chests": 57
+    },
+    {
+      "id": "player11",
+      "name": "Kevin Anderson",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 8900,
+      "chests": 36
+    },
+    {
+      "id": "player12",
+      "name": "Emily Jones",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 19800,
+      "chests": 81
+    },
+    {
+      "id": "player13",
+      "name": "Ryan White",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 11200,
+      "chests": 45
+    },
+    {
+      "id": "player14",
+      "name": "Michelle Garcia",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 20100,
+      "chests": 82
+    },
+    {
+      "id": "player15",
+      "name": "James Martin",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 33500,
+      "chests": 134
+    },
+    {
+      "id": "player16",
+      "name": "Laura Rodriguez",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 16400,
+      "chests": 65
+    },
+    {
+      "id": "player17",
+      "name": "Daniel Lewis",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 9800,
+      "chests": 40
+    },
+    {
+      "id": "player18",
+      "name": "Karen Lee",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 17900,
+      "chests": 72
+    },
+    {
+      "id": "player19",
+      "name": "Steven Walker",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 23400,
+      "chests": 94
+    },
+    {
+      "id": "player20",
+      "name": "Patricia Hall",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 14800,
+      "chests": 60
+    },
+    {
+      "id": "player21",
+      "name": "Richard Allen",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 28900,
+      "chests": 115
+    },
+    {
+      "id": "player22",
+      "name": "Nancy Young",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 13600,
+      "chests": 54
+    },
+    {
+      "id": "player23",
+      "name": "Charles King",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 19500,
+      "chests": 78
+    },
+    {
+      "id": "player24",
+      "name": "Donna Wright",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 10200,
+      "chests": 41
+    },
+    {
+      "id": "player25",
+      "name": "Joseph Scott",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 15300,
+      "chests": 62
+    },
+    {
+      "id": "player26",
+      "name": "Ruth Green",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 21800,
+      "chests": 87
+    },
+    {
+      "id": "player27",
+      "name": "Edward Baker",
+      "alliance": "Zeta Raiders",
+      "server": "Server 4",
+      "score": 37500,
+      "chests": 150
+    },
+    {
+      "id": "player28",
+      "name": "Susan Adams",
+      "alliance": "Alpha Legion",
+      "server": "Server 1",
+      "score": 13200,
+      "chests": 53
+    },
+    {
+      "id": "player29",
+      "name": "Frank Nelson",
+      "alliance": "Omega Squad",
+      "server": "Server 2",
+      "score": 18900,
+      "chests": 76
+    },
+    {
+      "id": "player30",
+      "name": "Margaret Hill",
+      "alliance": "Delta Force",
+      "server": "Server 3",
+      "score": 25700,
+      "chests": 103
+    }
+  ]
+}
